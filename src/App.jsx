@@ -3,7 +3,7 @@ import { Mail, Phone, MapPin, Award, CheckCircle2, GraduationCap, Download, Zap,
 
 // --- ASSETS IMPORT ---
 import profileImg from './assets/profile.jpg'; 
-import costxLogo from './assets/costx.jpg';     
+import costxLogo from './assets/costx.png';     
 import autocadLogo from './assets/autocad.jpg'; 
 import officeLogo from './assets/office.jpg';   
 
